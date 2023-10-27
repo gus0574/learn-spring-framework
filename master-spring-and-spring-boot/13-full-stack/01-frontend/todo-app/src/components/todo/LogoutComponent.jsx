@@ -1,6 +1,7 @@
 export default LogoutComponent
 
 function LogoutComponent() {
+
    return(
      <div className="LogoutComponent">
        <h1>Logout Success</h1>

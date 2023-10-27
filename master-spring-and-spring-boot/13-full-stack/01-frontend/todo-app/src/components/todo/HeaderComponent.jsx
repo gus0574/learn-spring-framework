@@ -12,7 +12,7 @@ function HeaderComponent() {
        <div className="container">
          <div className="row">
            <nav className="navbar navbar-expand-lg">
-             <a className="navbar-brand ms-2 fs-2 fw-bold text-black" target="_blank" href="https://github.com/gus0574">My Git</a>
+             <a className="navbar-brand ms-2 fs-2 fw-bold text-black" target="_blank" rel="noreferrer noopener" href="https://github.com/gus0574">My Git</a>
              <div className="collapse navbar-collapse">
                <ul className="navbar-nav">
                  <li className="nav-item">
